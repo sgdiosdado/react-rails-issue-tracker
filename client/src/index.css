@@ -1,0 +1,8 @@
+@tailwind base;
+@layer base {
+  a {
+    cursor: pointer;
+  }
+}
+@tailwind components;
+@tailwind utilities;
